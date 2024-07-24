@@ -1,5 +1,7 @@
 [English](https://github.com/paulmillr/encrypted-dns/) | [简体中文](https://github.com/paulmillr/encrypted-dns/blob/master/README.cmn-CN.md) | 繁體中文
-
+6月24日安徽电信已恢复正常路由，湖北电信问题依1日安徽电信用户可移除描述文件(若安装)，VPN中删除相应规则湖北电信用户仍可参考该方法
+前言
+通过iM激活网络抓包发现请求identity.ess.apple.com，而安徽电信湖北电信路由追踪如图
 # 加密 DNS 配置
 
 [DNS over HTTPS](https://zh.wikipedia.org/zh-tw/DNS_over_HTTPS) 和 [DNS over TLS](https://zh.wikipedia.org/zh-tw/DNS_over_TLS) 的設定描述檔。查看這篇文章以獲取更多訊息：[paulmillr.com/posts/encrypted-dns/](https://paulmillr.com/posts/encrypted-dns/) 以及有關[提交新描述檔](#提交新描述檔)的訊息。
